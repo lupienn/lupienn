@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm pitraa
 
 Computer Science student at Universitas Samudra focused on web development and building practical applications.
