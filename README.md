@@ -1,6 +1,6 @@
 # Ga Jago
 
-Computer Science student at Universitas Samudra focused on web development and building practical applications.
+Computer Science student at Samudra University focused on web development and building practical applications.
 
 ## GitHub Activity
 <p align="center">
