@@ -17,11 +17,3 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
-  <a href="https://github.com/lupienn/lupienn">
-    <img src="https://img.shields.io/badge/Maintained%3A-Yes-green" alt="Maintained" />
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=lupienn&color=blue" alt="Visitor Count" />
-  </a>
-</p>
