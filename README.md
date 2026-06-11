@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=lupienn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contribution-card.vercel.app/api?username=lupienn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
