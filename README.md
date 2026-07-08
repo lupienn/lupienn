@@ -3,12 +3,12 @@
 </p>
 
 <!-- GitAnimals - Pet Screen -->
-<a href="https://github.com/git-goods/gitanimals">
+<!-- <a href="https://github.com/git-goods/gitanimals">
   <img src="https://render.gitanimals.org/farms/lupienn" width="100%" />
-</a>
+</a> -->
 
 <!-- GitAnimals - Line Mode Pets -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/git-goods/gitanimals">
     <img src="https://render.gitanimals.org/lines/lupienn?pet-id=1" width="320" height="120" />
   </a>
@@ -18,10 +18,13 @@
   <a href="https://github.com/git-goods/gitanimals">
     <img src="https://render.gitanimals.org/lines/lupienn?pet-id=3" width="320" height="120" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lupienn&theme=github-dark&show_border=false&hide_title=true&custom_title=Aktivitas%20GitHub" alt="GitHub Activity Graph" width="100%" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="40" />
@@ -44,6 +47,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lupienn/lupienn/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
