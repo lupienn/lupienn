@@ -25,18 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="90" />
-  <img src="https://img.shields.io/badge/-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="90" />
-  <img src="https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="90" />
-  <img src="https://img.shields.io/badge/-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="90" />
-  <img src="https://img.shields.io/badge/-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="90" />
-  <img src="https://img.shields.io/badge/-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="90" />
-  <img src="https://img.shields.io/badge/-002E3B?style=for-the-badge&logo=nuxt&logoColor=%2300DC82" alt="Nuxt JS" height="90" />
-  <img src="https://img.shields.io/badge/-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" height="90" />
-  <img src="https://img.shields.io/badge/-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="90" />
-  <img src="https://img.shields.io/badge/-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="90" />
-  <img src="https://img.shields.io/badge/-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="90" />
-  <img src="https://img.shields.io/badge/-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="90" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,php,py,ts,express,laravel,nuxt,vue,react,figma,postman,jira&theme=dark&perline=6" alt="My Skills" />
+  </a>
 </p>
 
 <p align="center">
