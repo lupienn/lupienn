@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="40" />
   <img src="https://img.shields.io/badge/-%23777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="40" />
   <img src="https://img.shields.io/badge/-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" height="40" />
