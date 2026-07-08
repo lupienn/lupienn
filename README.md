@@ -2,10 +2,7 @@
   <img src="./image.gif" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Muhammad Fitra Fuadi</h1>
-<p align="center">
-  Informatics Student
-</p>
+<h1 align="center">Hi there, I'm lupienn</h1>
 
 <br />
 <!-- GitAnimals - Pet Screen -->
