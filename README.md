@@ -2,6 +2,24 @@
   <img src="./image.gif" alt="Header" width="100%" />
 </p>
 
+<!-- GitAnimals - Pet Screen -->
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/lupienn" width="100%" />
+</a>
+
+<!-- GitAnimals - Line Mode Pets -->
+<p align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/lines/lupienn?pet-id=1" width="320" height="120" />
+  </a>
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/lines/lupienn?pet-id=2" width="320" height="120" />
+  </a>
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/lines/lupienn?pet-id=3" width="320" height="120" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lupienn&theme=github-dark&show_border=false&hide_title=true&custom_title=Aktivitas%20GitHub" alt="GitHub Activity Graph" width="100%" />
 </p>
