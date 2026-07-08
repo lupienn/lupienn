@@ -27,6 +27,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lupienn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<h3 align="center">Tools & Tech Stack</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,php,py,ts,express,laravel,nuxt,vue,react,figma,postman,jira&theme=dark&perline=6" alt="My Skills" />
